@@ -16,5 +16,5 @@ In my projects I use a number of programming languagues to work properly:
 
 
 ## Where to Finde me?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oscar_Fernando_Silva-0A66C2?style=for-the-badge&logo=linkedin)](linkedin.com/in/oscar-fernando-silva-84294420a)<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oscar_Fernando_Silva-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oscar-fernando-silva-84294420a/)<br/>
 
