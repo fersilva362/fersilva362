@@ -1,5 +1,5 @@
 # Hi !
-In 2021 I started my carrer in the software development. Since then, I have dedicated myself to learn React, JavaScript and MonoDB to get  the best entry-level tech jobs for a career in the technolog for applications.
+In 2021 I started my carrer in the software development. Since then, I have dedicated myself to learn React, JavaScript  to get  the best entry-level tech jobs for a career in the technolog for applications.
 
 In my projects I use a number of programming languagues to work properly:
 
