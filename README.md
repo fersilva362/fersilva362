@@ -11,7 +11,7 @@ In my projects I enjoy coding in a variety of programming languages.:
 - [MongoDB](https://www.mongodb.com/) 
 ## Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-_-F7DF1E?style=for-the-badge&logo=javascript)<br/>
-![Dart](https://img.shields.io/badge/Dart-_-04589b?style=for-the-badge&logo=dart&logoColor=5dccfc)<br/>
+![Dart](https://img.shields.io/badge/Dart-_-04589b?style=for-the-badge&logo=dart&logoColor=249cc4)<br/>
 ![React](https://img.shields.io/badge/React-_-05d6f6?style=for-the-badge&logo=react)<br/>
 ![Flutter](https://img.shields.io/badge/Flutter-_-48c0f8?style=for-the-badge&logo=flutter&logoColor=5dccfc)<br/>
 
