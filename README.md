@@ -5,7 +5,7 @@ In my projects I use a number of programming languagues to work properly:
 
 ### Front-End
 - [React](https://reactjs.org/) - HTML enhanced for web apps!
--  
+- [Flutter](https://flutter.dev/)
 ### Back-End
 - [Node.js](http://nodejs.org) - evented I/O for the backend
 - [Express](http://expressjs.com) - fast node.js network app framework 
