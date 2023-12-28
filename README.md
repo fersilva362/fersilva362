@@ -1,10 +1,11 @@
 # Hi !
-In 2018 I started my carrer in the software development. Since then, I have dedicated myself to learn React, JavaScript  to get  the best entry-level tech jobs for a career in the technolog for applications.
+In 2018 I started my carrer in the software development. Since then, I have dedicated myself to learn React, JavaScript,Flutter  to get  the best entry-level tech jobs for a career in the technolog for applications.
 
 In my projects I use a number of programming languagues to work properly:
 
 ### Front-End
 - [React](https://reactjs.org/) - HTML enhanced for web apps!
+-  
 ### Back-End
 - [Node.js](http://nodejs.org) - evented I/O for the backend
 - [Express](http://expressjs.com) - fast node.js network app framework 
