@@ -11,7 +11,7 @@ In my projects I use a number of programming languagues to work properly:
 - [MongoDB](https://www.mongodb.com/) 
 ## Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-_-F7DF1E?style=for-the-badge&logo=javascript)<br/>
-![React](https://img.shields.io/badge/React-_-61DAFB?style=for-the-badge&logo=react)<br/>
+![React](https://img.shields.io/badge/React-_-05d6f6?style=for-the-badge&logo=react)<br/>
 ![Flutter](https://img.shields.io/badge/Flutter-_-5dccfc?style=for-the-badge&logo=flutter)
 
 ## Where to Find me?
