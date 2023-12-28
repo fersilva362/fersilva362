@@ -12,7 +12,7 @@ In my projects I use a number of programming languagues to work properly:
 ## Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-_-F7DF1E?style=for-the-badge&logo=javascript)<br/>
 ![React](https://img.shields.io/badge/React-_-61DAFB?style=for-the-badge&logo=react)<br/>
-![Flutter](https://img.shields.io/badge/React-_-61DAFB?style=for-the-badge&logo=flutter)
+![Flutter](https://img.shields.io/badge/Flutter-_-61DAFB?style=for-the-badge&logo=flutter)
 
 ## Where to Find me?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Oscar_Fernando_Silva-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oscar-fernando-silva-84294420a/)<br/>
