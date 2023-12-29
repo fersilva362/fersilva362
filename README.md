@@ -1,5 +1,5 @@
 # Hi !
-In 2018 I started my carrer in the software development. Since then, I have dedicated myself to learn React, JavaScript,Flutter  to get  the best entry-level tech jobs for a career in the technolog for applications.
+In 2018 I started my carrer in the software development. Since then, I have dedicated myself to learn React, JavaScript,Flutter  to get  the best entry-level tech jobs for a career in the technology for applications.
 
 In my projects I enjoy coding in a variety of programming languages.:
 
