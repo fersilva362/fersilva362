@@ -14,6 +14,7 @@ In my projects I enjoy coding in a variety of programming languages.:
 ![Dart](https://img.shields.io/badge/Dart-_-04589b?style=for-the-badge&logo=dart&logoColor=249cc4)<br/>
 ![React](https://img.shields.io/badge/React-_-05d6f6?style=for-the-badge&logo=react)<br/>
 ![Flutter](https://img.shields.io/badge/Flutter-_-48c0f8?style=for-the-badge&logo=flutter&logoColor=5dccfc)<br/>
+![JavaScript](https://img.shields.io/badge/English-_-F7DF1E?style=for-the-badge&logo=language)<br/>
 
 ## Where to Find me?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Oscar_Fernando_Silva-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linke5dccfcdin.com/in/oscar-fernando-silva-84294420a/)<br/>
